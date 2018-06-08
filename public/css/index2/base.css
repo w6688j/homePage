@@ -1886,3 +1886,21 @@ select {
 .about-list li {
     margin-bottom: .1em;
 }
+
+.center span {
+    display: block;
+}
+
+.center,.center-left,.center-right {
+    text-align: center;
+}
+
+.center .center-left {
+    width: 50%;
+    float: left;
+}
+
+.center .center-right {
+    width: 50%;
+    float: right;
+}
