@@ -5,7 +5,7 @@
  - Every changes here will be overwritten
 ===============================================================*/
 body {
-    background: #eeeeee url() repeat fixed left top;
+    background: #eeeeee repeat fixed left top;
 }
 
 /* header styles
@@ -85,7 +85,7 @@ blockquote,
 }
 
 .widget-staff figcaption .socials a {
-    color: #109109109
+    color: #FFFFFF;
 }
 
 @media only screen and (max-width: 767px) {

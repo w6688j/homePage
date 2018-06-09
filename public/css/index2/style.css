@@ -51,10 +51,9 @@ H1.page-title, H1 {
 #primary H3 {
 	font-size: 1.8em;
     letter-spacing: 0.015em;
-    margin: 0px 0px 0px 0px;
+    margin: 0px 0px 6px 0px;
 	padding:0px;
 	font-weight:bold;
-	/*color:#a3988c;*/
 	color: #63859D;
 	line-height:normal;
 }
